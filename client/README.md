@@ -1,4 +1,4 @@
-norman-shell-client
+[norman-shell-client](https://github.wdf.sap.corp/Norman/Shell)
 =====
 Contains the Landing page and Shell for Norman
 

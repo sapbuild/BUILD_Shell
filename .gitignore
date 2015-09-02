@@ -1,0 +1,17 @@
+node_modules/
+client/node_modules
+server/node_modules
+dev/
+dist/
+coverage/
+reports/
+.sonar/
+.tmp/
+.idea/
+logs/
+.DS_Store
+npm-debug.log
+*.sublime-*
+.editorconfig
+
+*.iml
