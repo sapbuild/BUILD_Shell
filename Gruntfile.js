@@ -64,9 +64,6 @@ module.exports = function (grunt) {
         // Watch files
         watch: require('./grunt-conf/watch.js'),
 
-        // Sonar coverage
-        sonarRunner: require('./grunt-conf/sonar.js'),
-
         /*** SERVER *******************************************************************************/
 
         // Server settings
