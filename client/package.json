@@ -1,0 +1,15 @@
+{
+  "name": "norman-shell-client",
+  "version": "0.1.0",
+  "description": "Norman module providing the project shell",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sapbuild/Shell.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "https://github.com/SAP/Build/blob/master/LICENSE.txt"
+    }
+  ]
+}
