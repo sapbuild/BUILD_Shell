@@ -59,7 +59,7 @@
     "method-override": "^2.3.1",
     "mocha-jenkins-reporter": "^0.1.4",
     "morgan": "^1.5.1",
-    "node-sap-app-server": "*",
+    "node-sap-app-server": "0.1.2",
     "norman-audit-server": "*",
     "norman-auth-client": "*",
     "norman-auth-server": "*",
