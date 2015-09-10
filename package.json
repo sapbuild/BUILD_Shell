@@ -63,7 +63,7 @@
     "norman-audit-server": "0.1.0",
     "norman-auth-client": "0.1.1",
     "norman-auth-server": "0.1.0",
-    "norman-client-tp": "0.1.8",
+    "norman-client-tp": "0.1.9",
     "norman-common-server": "0.1.2",
     "norman-server-tp": "0.1.1",
     "supertest": "^0.15.0",
