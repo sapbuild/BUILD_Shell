@@ -1,6 +1,6 @@
 {
   "name": "norman-shell-client",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "description": "Norman module providing the project shell",
   "repository": {
     "type": "git",
