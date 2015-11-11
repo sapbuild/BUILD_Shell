@@ -58,7 +58,7 @@ module.exports = function ($rootScope, $scope, $location, $state, $window, Auth,
             $rootScope.hideAvatarPopover = $rootScope.isAdminConsole && !isProviderLocal;
 
             if ($rootScope.isAdminConsole) {
-                $scope.helpUrl = 'http://www.build.me/BUILD-Help-Site/index_admin.html';
+                $scope.helpUrl = 'http://www.build.me/BUILD-Help-Site/AdminConsoleHelp.html';
                 $scope.helpClass = 'na-avatar-link';
                 return null;
             }
@@ -67,9 +67,9 @@ module.exports = function ($rootScope, $scope, $location, $state, $window, Auth,
             }
         }).then(function (internal) {
             if (!$rootScope.isAdminConsole) {
-                $scope.helpUrl = 'http://www.build.me/BUILD-Help-Site/index_external.html';
+                $scope.helpUrl = 'http://www.build.me/BUILD-Help-Site/';
                 if (internal) {
-                    $scope.helpUrl = 'http://www.build.me/BUILD-Help-Site/index.html';
+                    $scope.helpUrl = 'http://www.build.me/BUILD-Help-Site/';
                 }
                 $scope.helpClass = 'na-avatar-link';
             }
